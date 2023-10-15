@@ -1,4 +1,4 @@
-# Olá Pessoal! :vulcan_salute:
+# Hello World!
 
 Meu nome é João Nivaldo, mas pode me chamar de Jonny. Sou Desenvolvedor backend, atualmente estudo na @cubosacademy e estou buscando aprimorar ainda mais meus conhecimentos, e obter novas experiências.
 
