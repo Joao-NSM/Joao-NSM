@@ -11,4 +11,4 @@ Meu nome é João Nivaldo, mas pode me chamar de Jonny. Sou Desenvolvedor backen
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,postgres)](https://skillicons.dev)
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamedeirosp&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-NSM&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
